@@ -11,7 +11,8 @@ This project is divided into 2 parts .In the first part , I have implemented Con
 
 ## Demo and Screenshots
 
-https://drive.google.com/file/d/1INWZZORoU8Mymt4vrCnl4nwtO8hzCxx5/view?usp=drive_link
+![ ](https://github.com/GauravYS/Autoencoder-Applications/assets/116845183/3ce65183-5605-45e8-a35e-a443360f841e)
+
 
 https://drive.google.com/file/d/1v54iQaFXOc4Lw-azMH0xfCc7Ubuv13b0/view?usp=drive_link
 
