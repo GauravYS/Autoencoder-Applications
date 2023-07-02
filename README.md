@@ -11,14 +11,14 @@ This project is divided into 2 parts .In the first part , I have implemented Con
 
 ## Demo and Screenshots
 
-![ ](https://github.com/GauravYS/Autoencoder-Applications/assets/116845183/3ce65183-5605-45e8-a35e-a443360f841e)
+![ Colorized Image ](https://github.com/GauravYS/Autoencoder-Applications/assets/116845183/3ce65183-5605-45e8-a35e-a443360f841e)
 
 
-https://drive.google.com/file/d/1v54iQaFXOc4Lw-azMH0xfCc7Ubuv13b0/view?usp=drive_link
+![Convolutional Autoencoder performance](https://github.com/GauravYS/Autoencoder-Applications/assets/116845183/6cdcb5b9-2b6c-4b48-b8ff-b3cf2b400c6e)
 
-https://drive.google.com/file/d/1OILLHOiUEDTHEzJMU6evzeBVlUlToIMA/view?usp=drive_link
 
-https://drive.google.com/file/d/1THKC5GPRg4_GqyKloX041XZX2SosoIqF/view?usp=drive_link
+![Denoising AutoEncoder Performance](https://github.com/GauravYS/Autoencoder-Applications/assets/116845183/9f7f4a41-9af5-41ac-ac06-a144dc8db2d7)
+
 ## Installation
 
 These follwoing things need to be installed if you are running on colab 
